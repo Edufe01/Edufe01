@@ -1,7 +1,7 @@
 # 👨‍💻 Eduardo
 **`Fullstack Developer`**
 
-Me Chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente estou cursando Engenharia de Software na UCB, já fiz alguns cursos ná área de desenvolvimento e já li alguns livros sobre o assunto.
+Me Chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente estou cursando Engenharia de Software na UCB, já fiz alguns cursos ná área de desenvolvimento e já li alguns livros sobre programação.
 
 ### 🖥️ Minhas Tech Stacks
 
